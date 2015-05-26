@@ -1,3 +1,5 @@
+console.log('This is cool!');
+
 function pluck(obj, key) {
   
 });
