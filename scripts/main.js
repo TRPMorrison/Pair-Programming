@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // var Princess = [{
 //     mom: "Shanterria", dad: "Rodney I", brother: "Rodney II", brother: "Rodney III", brother: "Rodney IV", brother: "Rodney V", sister: "Sofia"
 // }]
@@ -76,3 +77,23 @@ return names;
 //     return stooge.name
 // });
 
+=======
+console.log('This is cool!');
+
+function pluck(obj, key) {
+  
+});
+}
+
+function filter(list, callback) {
+
+var results = [];
+
+return results;
+
+}
+
+function find(list, predicate) {
+
+}
+>>>>>>> 0092b6622b29bb8b699abd0dc3fdca50bd03249d
